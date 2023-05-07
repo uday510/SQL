@@ -1,0 +1,19 @@
+
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (1,' Electronics', NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (2,' Fashion',  NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (3,' Mobiles',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (4,' Appliances',  NOW(), NOW() ); 
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (5,' Groceries',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (8,' Household',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (11, 'Movies',  NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (12, 'RealEstate', NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (13, 'Household',  NOW(), NOW() ); 
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (14, 'Bikes',  NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (15, 'cycles',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (16, 'cycles',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (17, 'iphone',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (18, 'iphone',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (19, 'LED bulbs',   NOW(), NOW() );    
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (20, 'LED bulbs',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (21, 'LED bulbs',   NOW(), NOW() );
+-- INSERT INTO Categories (ID, Name, CreatedAt, UpdatedAt) VALUES (22, 'LED. bulbs',  NOW(), NOW() );

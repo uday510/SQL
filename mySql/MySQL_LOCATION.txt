@@ -1,0 +1,13 @@
+source C:\Users\UDAY\Desktop\MySql\01basics
+
+cd C:\Program Files\MySQL\MySQL Server 8.0\bin\
+
+SET @@sql_mode='';
+
+sudo /etc/init.d/mysql start
+
+sudo apt update && sudo apt upgrade
+sudo mysql_secure_installation
+
+
+sudo /etc/init.d/xrdp start
